@@ -6,6 +6,11 @@
   "scripts": {
     "test": "\tnpm run search"
   },
+  "devDependencies": {
+    "tailwindcss": "^3.0.24",
+    "vue": "^3.0.5",
+    "vue-loader": "^16.1.2"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/shahnewazIbrahim/vue-search.git"
