@@ -1,0 +1,22 @@
+{
+  "name": "search-vue",
+  "version": "1.0.0",
+  "description": "this is a search component use in vue project",
+  "main": "index.js",
+  "scripts": {
+    "test": "\tnpm run search"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shahnewazIbrahim/vue-search.git"
+  },
+  "keywords": [
+    "search-vue"
+  ],
+  "author": "shahnewaz-ibrahim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shahnewazIbrahim/vue-search/issues"
+  },
+  "homepage": "https://github.com/shahnewazIbrahim/vue-search#readme"
+}

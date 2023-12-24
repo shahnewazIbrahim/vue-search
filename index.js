@@ -1,0 +1,1 @@
+console.log("amake amar moto thakte dao");
